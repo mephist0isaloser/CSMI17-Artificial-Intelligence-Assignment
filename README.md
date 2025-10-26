@@ -27,5 +27,4 @@ To reproduce the full experiments and charts, run the notebook/script used to ge
 
 - `pathfinding_astar.py` – A\* grid world, heuristics, and mini-benchmark.
 - `timetable_csp.py` – CSP formulation and solvers.
-- `report_template.md` – Fill-in structure for your submission.
 - `figures/` – Placeholder for plots you generate.
